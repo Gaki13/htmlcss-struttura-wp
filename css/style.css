@@ -31,8 +31,37 @@
     min-height: 500px;
     margin-top: 20px;
 }
-.col{
+.container.col{
     background-color: #0186fc;
     min-height: 600px;
     margin-top: 20px;
+}
+
+.top-row{
+    background-color: #abcfe7;
+    min-height: 100px;
+    margin-bottom: 20px;
+}
+
+.col-right{
+    background-color: #abcfe7;
+    width: 20%;
+    height: 460px;
+    float: left;
+    margin-right: 20px;
+}
+
+.col-center{
+    background-color: #abcfe7;
+    width: calc(60% - 40px);
+    height: 460px;
+    float: left;
+    margin-right: 20px;
+}
+
+.col-left{
+    background-color: #abcfe7;
+    width: 20%;
+    height: 460px;
+    float: left;
 }
