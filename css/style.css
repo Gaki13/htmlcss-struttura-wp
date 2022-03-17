@@ -24,3 +24,15 @@
     min-height: 100px;
     margin-top: 20px;
 }
+
+/* main */
+.container.article{
+    background-color: #e1d67a;
+    min-height: 500px;
+    margin-top: 20px;
+}
+.col{
+    background-color: #0186fc;
+    min-height: 600px;
+    margin-top: 20px;
+}
