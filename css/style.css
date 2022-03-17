@@ -18,3 +18,9 @@
     max-width: 1920px;
 }
 
+/* header */
+.header{
+    background-color: #e579e6;
+    min-height: 100px;
+    margin-top: 20px;
+}
